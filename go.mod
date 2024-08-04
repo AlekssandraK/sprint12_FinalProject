@@ -1,4 +1,4 @@
-module parcel.go
+module github.com/AlekssandraK/sprint12_FinalProject
 
 go 1.22.1
 
