@@ -2,7 +2,7 @@ FROM golang:1.22
 
 WORKDIR /sprint12_FinalProject
 
-COPY ..
+COPY . .
 
 RUN go mod download
 
